@@ -50,3 +50,9 @@ Welcome to the **Rock Paper Scissors** game, now powered by the Aptos blockchain
 - **compute_computer_move**: The Aptos blockchain randomly selects a move for the computer.
 - **determine_game_result**: This function compares both moves to determine the winner and updates the score.
 - **restart_game**: Resets the game state, allowing the player to play another round.
+
+## Demo
+
+
+https://github.com/user-attachments/assets/b827c972-9361-4ccc-9930-0f75ff22313f
+
